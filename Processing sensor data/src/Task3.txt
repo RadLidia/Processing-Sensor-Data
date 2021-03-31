@@ -1,0 +1,9 @@
+Leaving		14 times
+Breakfast		14 times
+Sleeping	14 times
+Grooming		51 times
+Snack		11 times
+Showering		14 times
+Spare_Time/TV	77 times
+Toileting		44 times
+Lunch	9 times

@@ -1,0 +1,9 @@
+Leaving	 Hours: 27, Minutes: 44, Seconds: 44
+Breakfast	 Hours: 2, Minutes: 58, Seconds: 8
+Sleeping Hours: 131, Minutes: 3, Seconds: 31
+Snack	 Hours: 0, Minutes: 6, Seconds: 1
+Grooming	 Hours: 2, Minutes: 40, Seconds: 42
+Showering	 Hours: 1, Minutes: 34, Seconds: 9
+Spare_Time/TV Hours: 142, Minutes: 28, Seconds: 55
+Toileting	 Hours: 2, Minutes: 20, Seconds: 34
+Lunch Hours: 5, Minutes: 13, Seconds: 31

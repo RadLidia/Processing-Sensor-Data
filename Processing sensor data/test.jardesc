@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="Processing sensor data/src/PT2020_30424_Rad_Lidia_Assignment_5.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/Processing sensor data/test.jardesc" exportErrors="false" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=Processing sensor data/src&lt;control{Main.java[Main" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <javaElement handleIdentifier="=Processing sensor data/src"/>
+        <file path="/Processing sensor data/Task1.txt"/>
+        <file path="/Processing sensor data/test.jardesc"/>
+        <file path="/Processing sensor data/.classpath"/>
+        <file path="/Processing sensor data/Task2.txt"/>
+        <file path="/Processing sensor data/diagram.ucls"/>
+        <file path="/Processing sensor data/Task4.txt"/>
+        <file path="/Processing sensor data/Task3.txt"/>
+        <file path="/Processing sensor data/Activities.txt"/>
+        <file path="/Processing sensor data/Task5.txt"/>
+        <file path="/Processing sensor data/Task6.txt"/>
+        <file path="/Processing sensor data/.project"/>
+    </selectedElements>
+</jardesc>
